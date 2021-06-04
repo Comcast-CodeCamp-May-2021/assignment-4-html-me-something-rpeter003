@@ -1,1 +1,37 @@
 /* Write your CSS here! */
+<style>
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+     }
+header {
+    text-align: center;
+    margin: 20px 200px 100px 20px;  
+    border: royalblue;
+}
+h3 {
+    text-align: left;
+}
+.list {
+    text-align: left;
+    font-style: italic;
+}
+body {
+    background-color: rgb(163, 192, 244);
+    text-align: center;
+}
+#coolAlert {  
+    text-align: center;
+    color: red;
+    background-color: rgb(242, 174, 174);
+    font-size: 20px;  
+    border: 2px solid rgb(244, 76, 38);  
+    padding: 50px 100px 50px 100px;  
+    }  
+footer{
+    text-align: left;
+}
+
+
+</style>
